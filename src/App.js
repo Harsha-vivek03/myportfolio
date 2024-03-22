@@ -15,7 +15,7 @@ import Contact from './Contact';
 function App() {
   return (
 
- <Router basename="/myportfolio">
+ <Router>
   
     <div className="mainpage">
 
