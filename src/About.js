@@ -1,6 +1,11 @@
 import React from 'react'
 import Header from './Header'
 import './About.css'
+
+
+
+
+
 const About = () => {
   return (
     <div>

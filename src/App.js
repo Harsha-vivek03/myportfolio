@@ -9,13 +9,10 @@ import Home from './Home';
 import {BrowserRouter as Router, Route, Routes, BrowserRouter} from 'react-router-dom';
 import Contact from './Contact';
 
-
-
-
 function App() {
   return (
 
- <Router basename="/myportfolio">
+ <Router basename='/myportfolio'>
   
     <div className="mainpage">
 
