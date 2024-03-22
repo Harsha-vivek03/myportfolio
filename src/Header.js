@@ -7,7 +7,7 @@ const Header = (props) => {
     <div>
     <div className="header1">  
        <div id="headdiv1">
-        <h1> Harsha...</h1>
+        <h1> Harsha Vivek...</h1>
        </div> 
        <div id="headdiv2">
         
